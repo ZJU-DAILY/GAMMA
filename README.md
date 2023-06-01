@@ -1,8 +1,6 @@
 # GAMMA
 Source code for our paper: **GPU-Accelerated Batch-Dynamic Subgraph Matching**
 
-GPMA is a data structure to maintain dynamic graphs on GPUs. This repository illustrates a demo to conduct BFS/Connected Component/PageRank on a dynamic graph, which is maintained by GPMA, on the GPU.
-
 # Platform
 * Ubuntu 20.04
 * CUDA 11.1
