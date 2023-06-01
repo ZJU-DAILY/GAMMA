@@ -24,14 +24,14 @@ v id label
 e src dst
 ...
 ```
+where lines start with ```v``` denotes vertices and those start with ```e``` denotes edges, ```id``` is the vertex id, ```label``` is the vertex label, ```src``` and ```dst``` are the source and destination vertex id of an edge, respectively.
 
 ### Formats edge_stream
 ```
-v id label
-...
 e src dst
 ...
 ```
+
 
 
 
